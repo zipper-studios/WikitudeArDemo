@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This key is only valid for this sample app, if you need one for your own application please visit www.wikitude.com (SDK Store) -->
+    <string name="wikitude_license_key">YOUR WIKITUDE LICENSE KEY</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wikitude Demo</string>
+
+    <string name="display">Display 3D model on target</string>
+
+    <string name="error_loading_ar_experience">Could not load AR experience.</string>
+    <string name = "camera_permission_rationale">You need enable the camera permission in order to use camera</string>
+
+</resources>
